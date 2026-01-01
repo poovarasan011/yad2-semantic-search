@@ -1,0 +1,19 @@
+# ETL Pipeline Dependencies
+
+# Orchestration
+prefect>=2.14.0
+
+# Database
+psycopg2-binary>=2.9.9
+sqlalchemy>=2.0.23
+
+# Vector Database
+qdrant-client>=1.7.0
+
+# Embeddings (backend dependency, but needed here too)
+sentence-transformers>=2.2.2
+torch>=2.1.0
+numpy>=1.24.0
+
+# Utilities
+python-dotenv>=1.0.0

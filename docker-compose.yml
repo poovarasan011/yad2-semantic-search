@@ -1,0 +1,38 @@
+# docker-compose.dev.yml (simplified for development)
+services:
+  # 1. Metadata Database (SQL)
+  db:
+    image: postgres:15-alpine
+    container_name: yad2_postgres
+    restart: always
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
+    ports:
+      - "${POSTGRES_PORT}:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./infra/postgres/init.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - yad2_network
+
+  # 2. Vector Database
+  vector_db:
+    image: qdrant/qdrant:latest
+    container_name: yad2_qdrant
+    restart: always
+    ports:
+      - "${QDRANT_PORT}:6333"
+    volumes:
+      - qdrant_data:/qdrant/storage
+    networks:
+      - yad2_network
+
+volumes:
+  postgres_data:
+  qdrant_data:
+
+networks:
+  yad2_network:
+    driver: bridge

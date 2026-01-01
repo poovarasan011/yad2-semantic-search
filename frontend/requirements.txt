@@ -1,0 +1,8 @@
+# Streamlit UI Dependencies
+
+# Web Framework
+streamlit>=1.28.0
+
+# HTTP Client
+requests>=2.31.0
+
